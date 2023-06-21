@@ -1,0 +1,39 @@
+header{
+   
+}
+
+#title {
+    background-color: whitesmoke;
+}
+#title2 {
+    margin-top: 40px;
+}
+
+#discription {
+/* display: flex; */
+/* justify-content:left; */
+/* flex-direction: column; */
+}
+#title3 {
+    margin-top: 40px;
+}
+#text1{
+    margin-top: 10px;
+}
+#containerhfg{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    justify-content: space-between;
+}
+#containererasmus{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+}
+.linklist{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    list-style: none;
+      
+}
